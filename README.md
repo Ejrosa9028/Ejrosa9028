@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ejrosa9028
+- 👋 Hi, I’m Emanuel Rosa Alamo
 - 👀 I’m interested in Web app and Machine Learning
 - 🌱 I’m currently learning C, C++, HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on tecnology company
