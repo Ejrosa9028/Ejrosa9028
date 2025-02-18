@@ -4,8 +4,9 @@
 
 <p align="left">👀 I’m interested in Cybersecurity and Machine Learning<br>🌱 I’m currently learning C, C++, HTML, CSS and JavaScript<br>💞️ I’m looking to collaborate on tecnology company<br>📫 How to reach me ejrosa9028@gmail.com<br>😄 Pronouns: He/him<br>⚡ Fun fact: Coffe is the second most consumed beverage in the world, after water</p>
 
+##
 ###
-
+<br/>
 <h2 align="center">👨‍💻 I code with 👨‍💻</h2>
 
 ###
@@ -32,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
+<br/>
 
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 
@@ -48,16 +49,44 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ejrosa9028&locale=en&mode=daily&theme=blueberry&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ejrosa9028&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ejrosa9028&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>GITHUB STATS</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Ejrosa9028">
+          <img src="https://github-readme-stats.vercel.app/api?username=Ejrosa9028&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" alt="GitHyb Stasts"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Ejrosa9028">
+          <img src="https://streak-stats.demolab.com?user=Ejrosa9028&locale=en&mode=daily&theme=blueberry&hide_border=false&border_radius=5&order=3" alt="Streak Graph"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>LANGUAGE STATS</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Ejrosa9028">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ejrosa9028&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" alt="Languages Graph"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Ejrosa9028">
+          <img src="https://github-contributor-stats.vercel.app/api?username=Ejrosa9028&limit=5&theme=react&combine_all_yearly_contributions=true" alt="Top Repo"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ###
 
@@ -69,13 +98,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ejrosa9028&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Ejrosa9028/count.svg?"  />
-</div>
-
-###
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
@@ -87,5 +111,14 @@
   </a>
 </div>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
 ###
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Ejrosa9028/count.svg?"  />
+</div>
+
+###
