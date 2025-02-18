@@ -2,10 +2,19 @@
 
 ###
 
-<p align="left">👀 I’m interested in Cybersecurity and Machine Learning<br>🌱 I’m currently learning C, C++, HTML, CSS and JavaScript<br>💞️ I’m looking to collaborate on tecnology company<br>📫 How to reach me ejrosa9028@gmail.com<br>😄 Pronouns: He/him<br>⚡ Fun fact: Coffe is the second most consumed beverage in the world, after water</p>
-
-##
-###
+<p align="left">👀 I’m interested in Cybersecurity and Machine Learning
+  <br>
+  🌱 I’m currently learning C, C++, HTML, CSS and JavaScript
+  <br>
+  💞️ I’m looking to collaborate on tecnology company
+  <br>
+  📫 How to reach me: ejrosa9028@gmail.com
+  <br>
+  😄 Pronouns: He/him
+  <br>
+  ⚡ Fun fact: Coffe is the second most consumed beverage in the world, after water</p>
+  
+  ##
 <br/>
 <h2 align="center">👨‍💻 I code with 👨‍💻</h2>
 
@@ -121,4 +130,3 @@
   <img src="https://profile-counter.glitch.me/Ejrosa9028/count.svg?"  />
 </div>
 
-###
