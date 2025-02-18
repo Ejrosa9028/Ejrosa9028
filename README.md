@@ -72,7 +72,7 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Ejrosa9028">
-          <img src="https://streak-stats.demolab.com?user=Ejrosa9028&locale=en&mode=daily&theme=blueberry&hide_border=false&border_radius=5&order=3" alt="Streak Graph"/>
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ejrosa9028&theme=react&hide_border=false" alt="Streak Graph"/>
         </a>
       </p>
     </td>
