@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi, I'm Emanuel</h1>
+# <img src="https://media0.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=6c09b9522x7gxt76wtaoo6gcxq4bejpa3lzufpcqdunu9l3p&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70"/> I'm Emanuel! 
 
 ###
 
