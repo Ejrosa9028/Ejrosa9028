@@ -61,7 +61,7 @@
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>GITHUB STATS</strong></h3>
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Ejrosa9028">
           <img src="https://github-readme-stats.vercel.app/api?username=Ejrosa9028&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" alt="GitHyb Stasts"/>
@@ -82,7 +82,7 @@
       <h3 align="center"><strong>LANGUAGE STATS</strong></h3>
       <p align="center">
         <a href="https://github.com/Ejrosa9028">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ejrosa9028&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" alt="Languages Graph"/>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ejrosa9028&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=50&theme=react&hide_border=false&order=2" alt="Languages Graph"/>
         </a>
       </p>
     </td>
