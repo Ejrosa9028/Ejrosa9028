@@ -79,7 +79,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>LANGUAGE STATS</strong></h3>
+      <h3 align="center"><strong>Lᴀɴɢᴜᴀɢᴇ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Ejrosa9028">
           <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ejrosa9028&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=50&theme=react&hide_border=false&order=2" alt="Languages Graph"/>
